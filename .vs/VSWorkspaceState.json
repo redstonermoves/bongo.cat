@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\js\\sm2",
+    "\\js\\sm2\\js"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\wow.html",
   "PreviewInSolutionExplorer": false
 }
