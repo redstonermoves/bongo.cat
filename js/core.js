@@ -25,8 +25,8 @@ var KeyEnum = {
     "E" : 3,
     "R" : 4,
     "T" : 5,
-    "Y" : 6, //US
-    "Z" : 6, //Germany
+    "Y" : 6, //US - Going through the code, Why is this needed?
+    "Z" : 6, //Germany - Going through the code, Why is this needed?
     "U" : 7,
     "I" : 8,
     "O" : 9,
@@ -52,8 +52,8 @@ var InstrumentPerKeyEnum = {
     "E" : InstrumentEnum.MARIMBA,
     "R" : InstrumentEnum.MARIMBA,
     "T" : InstrumentEnum.MARIMBA,
-    "Y" : InstrumentEnum.MARIMBA, //US
-    "Z" : InstrumentEnum.MARIMBA, //Germany
+    "Y" : InstrumentEnum.MARIMBA, //US - Going through the code, Why is this needed?
+    "Z" : InstrumentEnum.MARIMBA, //Germany - Going through the code, Why is this needed?
     "U" : InstrumentEnum.MARIMBA,
     "I" : InstrumentEnum.MARIMBA,
     "O" : InstrumentEnum.MARIMBA,
