@@ -1,4 +1,4 @@
-# Bongo Cat
+# Bongo Cat Remix
 <p align="center">
   <img src="https://bongo.cat/meta/thumbnail.png">
 </p>
@@ -6,6 +6,7 @@ Hit the bongos like Bongo Cat! https://bongo.cat
 
 ## About the meme
 Bongo Cat is a meme created by [DitzyFlama](https://twitter.com/DitzyFlama) ([tweet](https://twitter.com/DitzyFlama/status/993487015499853824)) using [StrayRogue](https://twitter.com/StrayRogue)'s [drawing of a cat](https://twitter.com/StrayRogue/status/992994454058381312).
+And redstonermoves remade it, Again?!
 
 ## Song Examples
 Ode to Joy - Friedrich Schiller
